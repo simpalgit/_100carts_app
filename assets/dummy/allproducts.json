@@ -1,0 +1,247 @@
+[
+    {
+        "prodId":"0",
+        "name":"Table Stationery 5in1 Leather Desk Organizers Tray Set | Brown",
+        "category":"Office Stationary",
+        "prodCat":"0",
+        "mainImage":"assets/dummy/product-1-1.jpeg",
+        "images":[
+            "assets/dummy/product-1-1.jpeg",
+            "assets/dummy/product-1-2.jpeg",
+            "assets/dummy/product-1-3.jpeg"
+        ],
+        "price":2970,
+        "offerPrice":2821,
+        "desription":[
+            "Material: Leather Rectangle Tray. Pack contains 1 Tray,pen holder, Card Holder,paper weight & tissue holder. It takes 5-7 days for Shipping.",
+            "Keep your office or home looking professional and organized with this desktop organizer.",
+            "Great for Corporate Gifting, home office accessories, Desk organizer.",
+            "Professional looking organizer - Bid goodbye to messy office desks and study tables with the Leather Desk Organizer designed for your tabletop.",
+            "This organizer tray is beautifully designed to give an elegant and sophisticated look."
+        ]
+    },
+    {
+        "prodId":"1",
+        "name":"Metal Coins | Size: 2x2x0.1 Cm | Pack Contain 50pcs",
+        "category":"DIY",
+        "prodCat":"0",
+        "mainImage":"assets/dummy/product-2-1.jpeg",
+        "images":[
+            "assets/dummy/product-2-1.jpeg",
+            "assets/dummy/product-2-2.jpeg"
+        ],
+        "price":60,
+        "offerPrice":54,
+        "desription":[
+            "Material: Metal. Pack Contain 50 Coins. (Size: 2x2x0.2 Cm)",
+            "These Metal Coins are Great for all home, office, craft, hobby, science projects, and product manufacturing applications.",
+            "These Metal Coins can be used for many craft projects.",
+            "This will be an great pick for you."
+        ]
+    },
+    {
+        "prodId":"2",
+        "name":"Unfinished Wooden Peg Doll 53 Mm | Pack Of 2",
+        "category":"DIY",
+        "prodCat":"0",
+        "mainImage":"assets/dummy/product-3-1.jpeg",
+        "images":[
+            "assets/dummy/product-3-1.jpeg",
+            "assets/dummy/product-3-2.jpeg",
+            "assets/dummy/product-3-3.jpeg"
+        ],
+        "price":70,
+        "offerPrice":70,
+        "desription":[
+            "Material: Wood. Pack Contain 2 Unfinished Wooden Peg Doll (1.8x1.8x5 Cm).",
+            "Wooden peg dolls are a classic wooden toy with a cylindrical shape and a peg at the bottom for standing upright.",
+            "They can be painted or decorated in various ways to make a fun craft item for all ages.",
+            "They can be painted or decorated in various ways to make a fun craft item for all ages.",
+            "These wooden peg dolls are safe, durable, and offer a lot of versatility in terms of creativity and play."
+        ]
+    },
+    {
+        "prodId":"3",
+        "name":"Handmade Dried Vine Balls For DIY Crafts & Decor | Pack Of 3",
+        "category":"MIXED MEDIA ART",
+        "prodCat":"0",
+        "mainImage":"assets/dummy/product-4-1.jpeg",
+        "images":[
+            "assets/dummy/product-4-1.jpeg"
+     
+        ],
+        "price":155,
+        "offerPrice":150,
+        "desription":[
+            "Material: Vine. Pack Contain 3 Balls. (Size: 4 cm)",
+            "Natural materials, good finish, uniform dyeing, hand-woven full of ancient craft style.",
+            "Can be use on wall hanging, table placed, Xmas Tree-top, Photography, kindergarten decoration, Lighting decoration, tree decoration, ceiling decoration, garland decoration.",
+            "Natural dry plant wreath, which means beautiful, never withering.",
+            "You can hang it on front doors, walls, windows and dinner tables."
+        ]
+    },
+    {
+        "prodId":"4",
+        "name":"Miniature Model Girls | Pack Of 2 | 1x1x8 Cm | Dollhouse Decor And Accessories",
+        "category":"MINIATURE MODELS",
+        "prodCat":"1",
+        "mainImage":"assets/dummy/product-5-1.jpeg",
+        "images":[
+            "assets/dummy/product-5-1.jpeg",
+            "assets/dummy/product-5-2.jpeg",
+            "assets/dummy/product-5-3.jpeg"
+        ],
+        "price":250,
+        "offerPrice":238,
+        "desription":[
+            "Material: Plastic. Pack Contain 2 Miniature Girls. Size: 1x1x8 cm.",
+            "Great for use in educational projects and as a teaching aid for students learning about different animals and their habitats.",
+            "Can be used as decorative pieces for home or office, adding a touch of nature to any space.",
+            "Great for use in model making and miniature landscaping projects.",
+            "Can be used as a tool for architectural visualization and interior design projects."
+        ]
+    },
+    {
+        "prodId":"5",
+        "name":"Miniature Model Burger | Pack Of 2 | 1.5x1.5x1.5 Cm | Dollhouse Decor And Accessories",
+        "category":"MINIATURE MODELS",
+        "prodCat":"1",
+        "mainImage":"assets/dummy/product-6-1.jpeg",
+        "images":[
+            "assets/dummy/product-6-1.jpeg",
+            "assets/dummy/product-6-2.jpeg"
+        ],
+        "price":90,
+        "offerPrice":86,
+        "desription":[
+            "Material: Plastic. Pack Contain 2 Miniature Bruger. Size: 1.5x1.5x1.5 cm.",
+            "reat for use in educational projects and as a teaching aid for students learning about different animals and their habitats.",
+            "Can be used as decorative pieces for home or office, adding a touch of nature to any space.",
+            "Great for use in model making and miniature landscaping projects.",
+            "Can be used as a tool for architectural visualization and interior design projects."
+        ]
+    },
+    {
+        "prodId":"6",
+        "name":"Miniature Model Baskets | Pack Of 4 | 2.5x1.5x1 Cm | Dollhouse Decor And Accessories",
+        "category":"MINIATURE MODELS",
+        "prodCat":"1",
+        "mainImage":"assets/dummy/product-7-1.jpeg",
+        "images":[
+            "assets/dummy/product-7-1.jpeg",
+            "assets/dummy/product-7-2.jpeg"
+        ],
+        "price":100,
+        "offerPrice":95,
+        "desription":[
+            "Material: Plastic. Pack Contain 4 Miniature Baskets. Size: 2.5x1.5x1 cm.",
+            "reat for use in educational projects and as a teaching aid for students learning about different animals and their habitats.",
+            "Can be used as decorative pieces for home or office, adding a touch of nature to any space.",
+            "Great for use in model making and miniature landscaping projects.",
+            "Can be used as a tool for architectural visualization and interior design projects."
+        ]
+    },
+    {
+        "prodId":"7",
+        "name":"Resin Art Kit For Bookmark, Feather & Music Player Making",
+        "category":"RESIN ART SUPPLIES",
+        "prodCat":"1",
+        "mainImage":"assets/dummy/product-8-1.jpeg",
+        "images":[
+            "assets/dummy/product-8-1.jpeg",
+            "assets/dummy/product-8-2.jpeg",
+            "assets/dummy/product-8-3.jpeg"
+        ],
+        "price":1350,
+        "offerPrice":1349,
+        "desription":[
+            "Includes crystal-clear resin & hardener for flawless creations (150ml).",
+            "Features unique Spotify Music, Feather, and Bookmark silicone moulds.",
+            "Fun embellishments: glitter powder, metallic pearl powder, combi glitter.",
+            "Easy to use with disposable gloves, mixing tools, and measuring beakers.",
+            "Perfect for beginners - includes bubble remover and storage container."
+        ]
+    },
+    {
+        "prodId":"8",
+        "name":"Decorative Metallic Micro Stones 200 Grams | 1 Mm | Green | For Resin Art & Jewelry Making",
+        "category":"CRAFT SAND & STONE",
+        "prodCat":"2",
+        "mainImage":"assets/dummy/product-9-1.jpeg",
+        "images":[
+            "assets/dummy/product-9-1.jpeg",
+            "assets/dummy/product-9-2.jpeg"
+        ],
+        "price":150,
+        "offerPrice":149,
+        "desription":[
+            "Metallic Stone 200 Grams - Size 1 mm",
+            "Made of high-quality selected small gravel, each gravel is an irregular shape.",
+            "When making DIY resin creations, the heavier stones will sink to the bottom of the resin and can be placed precisely in their position without protruding onto the cast resin layer.",
+            "The colorful shiny gloss texture can make your craft project more gorgeous.",
+            "Stones are natural and as a result, some may be broken or out of shape, oval or round, thick or thin."
+        ]
+    },
+    {
+        "prodId":"9",
+        "name":"Heart Wooden Buttons | 15 Mm | 15 Grams",
+        "category":"DIY ACCESSORIES",
+        "prodCat":"2",
+        "mainImage":"assets/dummy/product-10-1.jpeg",
+        "images":[
+            "assets/dummy/product-10-1.jpeg"
+        ],
+        "price":80,
+        "offerPrice":80,
+        "desription":[
+            "Material: Wood. Pack Contain Approx 30-40 Buttons . Size: 15 mm, 3 mm Thick.",
+            "These buttons are made of wood, the surface is smooth and durable, can be attached using glue, tape, thread, ribbon, and much more.",
+            "They are perfect for use in any of your projects, as well as on homemade cards and scrapbooks.",
+            "And also great for DIY and adding finishing touches to bags, jackets, scarves, hats, and jumpers.",
+            "These buttons looks vivid and lovely, you can match them with your clothes in different styles."
+        ]
+    },
+    {
+        "prodId":"10",
+        "name":"Pre Marked MDF Lotus Flower Cutout With Easel Brush Water Colors - 10 Inch",
+        "category":"DIY ACCESSORIES",
+        "prodCat":"2",
+        "mainImage":"assets/dummy/product-11-1.jpeg",
+        "images":[
+            "assets/dummy/product-11-1.jpeg",
+            "assets/dummy/product-11-2.jpeg",
+            "assets/dummy/product-11-3.jpeg"
+        ],
+        "price":220,
+        "offerPrice":210,
+        "desription":[
+            "Material: Wood. Size: 25x25 cm. 3 mm Thick",
+            "Pack contains 1 Pre Marked MDF board, 5 Inch Easel, 1 Brush (Size: 4) & 6 Water Colors.",
+            "Pre-marked Rangoli shapes can save time: If you are creating a Rangoli design, these pre-marked shapes can save you the time and effort of marking the lines yourself.",
+            "Can be used for a variety of other craft projects, such as creating wall hangings, home decor items, or other decorative objects.",
+            "Can be used for a variety of other craft projects, such as creating wall hangings, home decor items, or other decorative objects."
+        ]
+    },
+    {
+        "prodId":"11",
+        "name":"Stencil Brush For Painting With Synthetic Bristle Size 6 | For Any Surface And Paint Type",
+        "category":"PAINT BRUSHES",
+        "prodCat":"2",
+        "mainImage":"assets/dummy/product-12-1.jpeg",
+        "images":[
+            "assets/dummy/product-12-1.jpeg",
+            "assets/dummy/product-12-2.jpeg",
+            "assets/dummy/product-12-3.jpeg"
+        ],
+        "price":270,
+        "offerPrice":250,
+        "desription":[
+            "Wooden Handle With Aluminium Ferrules, Stencil Brushes of Size 6. 6 Inch Long. Diameter: 1.6 cm",
+            "High-quality stencil brushes for precise and controlled painting.",
+            "Suitable for use with a variety of paints and surfaces.",
+            "Durable bristles and comfortable handles for easy use.",
+            "Easy to clean and maintain for multiple uses. These brushes can be used on all kinds of stenciling projects."
+        ]
+    }
+
+]
